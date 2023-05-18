@@ -17,7 +17,7 @@ Este projeto é exclusivo do curso Explorer, promovido pela Rocketseat para ensi
 
 
 <p align="center">
-  <img alt="Ambientes" src="./assets/readme-img/capa.png" width="100%">
+  <img alt="Space cream" src="./assets/readme-img/capa.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -36,7 +36,7 @@ Criação de um formulário utilizando todos os recursos ensinados durante o mó
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/BpqemGphPyzNGDtPOyTJJz/Explorer-Stage-03-Projeto-03-(Copy)?node-id=203%3A1865&t=qNxQiCaer3wUsgmN-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/fHv5VlkbBto0jdFrcRx3w5/Stage-03---Mobile-First-(Copy)?type=design&node-id=31905%3A102&t=1jjK8creZownWxjc-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
